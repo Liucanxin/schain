@@ -1,4 +1,4 @@
 loopme.com, 114633, RESELLER, 6c8d5f95897a5a3b
 inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca111
 app.ipa
-bigo.sg, 10000035, DIRECT
+bigo.sg, 9000017, DIRECT
